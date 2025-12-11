@@ -2,5 +2,5 @@ Albert Brite - Wild|https://telegasi44.github.io/MyMusic/Albert-Brite-Wild.mp3
 LP - Girls Go Wild|https://telegasi44.github.io/MyMusic/LP-Girls-Go-Wild.mp3
 Crystal-Castles-KEROSENE|https://telegasi44.github.io/MyMusic/Crystal-Castles-KEROSENE.mp3
 The-Weekend-Save-Your-Tears|https://telegasi44.github.io/MyMusic/The-Weekend-Save-Your-Tears.mp3
-Rammstein-Sonne.mp3
-True Detective-Intro.mp3
+Rammstein-Sonne.mp3|https://telegasi44.github.io/MyMusic/Rammstein-Sonne.mp3
+True Detective-Intro.mp3|https://telegasi44.github.io/MyMusic/True Detective-Intro.mp3
