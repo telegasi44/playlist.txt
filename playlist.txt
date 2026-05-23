@@ -25,6 +25,7 @@ EMIN-JONY-КАМИН|https://telegasi44.github.io/MyMusic/EMIN-JONY-КАМИН.m
 Jeyhun-Samedov-Getmə|https://telegasi44.github.io/MyMusic/Jeyhun-Samedov-Getmə.mp3
 Madonna-Sickick-Frozen|https://telegasi44.github.io/MyMusic/Madonna-Sickick-Frozen.mp3
 Madonna-Frozen|https://telegasi44.github.io/MyMusic/Madonna-Frozen.mp3
+MGMT-Little-Dark-Age|https://telegasi44.github.io/MyMusic/MGMT-Little-Dark-Age.mp3
 Teddy-Swims-Lose-Control|https://telegasi44.github.io/MyMusic/Teddy-Swims-Lose-Control.mp3
 Tove-Lo-Habits|https://telegasi44.github.io/MyMusic/Tove-Lo-Habits.mp3
 Qaraqan-Gəl-və-Bax|https://telegasi44.github.io/MyMusic/Qaraqan-Gəl-və-Bax.mp3
