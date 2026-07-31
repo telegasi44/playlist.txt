@@ -35,6 +35,7 @@ Madonna-Sickick-Frozen|https://telegasi44.github.io/MyMusic/Madonna-Sickick-Froz
 Madonna-Frozen|https://telegasi44.github.io/MyMusic/Madonna-Frozen.mp3
 MGMT-Little-Dark-Age|https://telegasi44.github.io/MyMusic/MGMT-Little-Dark-Age.mp3
 Teddy-Swims-Lose-Control|https://telegasi44.github.io/MyMusic/Teddy-Swims-Lose-Control.mp3
+Kavinsky-Nightcall|https://telegasi44.github.io/MyMusic/Kavinsky-Nightcall.mp3
 Tove-Lo-Habits|https://telegasi44.github.io/MyMusic/Tove-Lo-Habits.mp3
 Qaraqan-Gəl-və-Bax|https://telegasi44.github.io/MyMusic/Qaraqan-Gəl-və-Bax.mp3
 Lana-Del-Rey-Summertime-Sadness|https://telegasi44.github.io/MyMusic/Lana-Del-Rey-Summertime-Sadness.mp3
